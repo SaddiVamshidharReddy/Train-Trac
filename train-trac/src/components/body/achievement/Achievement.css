@@ -1,0 +1,22 @@
+.flex{
+    margin-top: 90px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: baseline;
+}
+
+.flex .icons{
+    margin: 0 0 30px;
+}
+
+.flex .he{
+    color: #fff;
+    margin: 10px 0;
+}
+
+.flex .para{
+    text-align: center;
+    color: #fff;
+    margin: 10px 0;
+}

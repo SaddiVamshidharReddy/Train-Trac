@@ -1,0 +1,16 @@
+.footer{
+    background-color: #2D2D2D;
+    display: flex;
+    justify-content: space-between;
+    padding: 60px 60px;
+    color: #fff;
+}
+
+.footer .left .tagline{
+    font-size: 0.9rem;
+}
+.footer .right ul li{
+    list-style: none;
+    font-size: 0.9rem;
+    margin: 5px ;
+}
